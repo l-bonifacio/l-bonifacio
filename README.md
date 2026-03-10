@@ -4,10 +4,12 @@ I'm currently doing a retraining program to become a **Fachinformatikerin for Ap
 
 I enjoy learning how software works from the ground up – from algorithms and programming logic to building small projects and web applications.
 
+
 ### What I'm currently working on
 - learning programming fundamentals
 - building small projects for my portfolio
 - improving my understanding of algorithms and software structure
+
 
 ### What I'm learning
 - Java
@@ -15,11 +17,13 @@ I enjoy learning how software works from the ground up – from algorithms and p
 - basic backend concepts
 - software development principles
 
+
 ### Tools I use
 - VS Code  
 - IntelliJ IDEA  
 - Git & GitHub  
 - XAMPP  
+
 
 ### How to reach me
 You can contact me through GitHub.
