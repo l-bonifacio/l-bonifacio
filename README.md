@@ -2,12 +2,12 @@
 
 I'm currently doing a retraining program to become a **Fachinformatikerin for Application Development (FIAE)** in Germany.
 
-I enjoy learning how software works from the ground up – from algorithms and programming logic to building small projects and web applications.
+I enjoy learning how software works from the ground up.
+From algorithms and programming logic to building small projects and web applications.
 
 
 ### What I'm currently working on
 - learning programming fundamentals
-- building small projects for my portfolio
 - improving my understanding of algorithms and software structure
 
 
@@ -22,7 +22,6 @@ I enjoy learning how software works from the ground up – from algorithms and p
 - VS Code  
 - IntelliJ IDEA  
 - Git & GitHub  
-- XAMPP  
 
 
 ### How to reach me
